@@ -1,5 +1,3 @@
-# AI-Powered Resume Screening System
-
 This is a Streamlit-based tool that automatically extracts, analyzes, and ranks resumes based on a given job description using Natural Language Processing (NLP).
 
 
